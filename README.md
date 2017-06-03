@@ -5,4 +5,6 @@
 - ON and OFF buttons
 - IR and colored LED
 
-![circuit](circuit.png)
+![circuit_uno](circuit_uno.png)
+![circuit_atmega328](circuit_atmega328.png)
+
